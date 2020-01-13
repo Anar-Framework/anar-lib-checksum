@@ -4,12 +4,12 @@ package af.gov.anar.lib.checksum;
  * This class provides functions to generate Verhoeff's checksum and validate
  * Verhoeff's checksum compliance
  */
-public final class ChecksumUtils {
+public final class ChecksumUtility {
 
 	/**
 	 * Private constructor for IdChecksum
 	 */
-	private ChecksumUtils() {
+	private ChecksumUtility() {
 	}
 
 	/**
