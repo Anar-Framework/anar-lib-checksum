@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>af.gov.anar.lib.checksum</groupId>
-	<artifactId>anar-lib-cheksum</artifactId>
+	<artifactId>anar-lib-checksum</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>anar-lib-cheksum</name>
 	<description>Check Sum Utility Library for Anar Framework</description>
